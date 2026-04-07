@@ -15,3 +15,11 @@ To simulate real-world debugging scenarios and log analysis tasks.
 
 ## How to run
 python main.py
+
+## Example output
+
+Total errors: 3
+
+Error breakdown:
+Database connection failed: 2
+Timeout: 1
