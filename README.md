@@ -1,2 +1,17 @@
-# log-investigator
-Simple Python tool to analyze system logs and identify recurring errors.
+# Log Investigator
+
+This project analyzes system logs and identifies recurring errors.
+
+## Features
+- Parses log entries
+- Counts total errors
+- Groups errors by type
+
+## Why I built this
+To simulate real-world debugging scenarios and log analysis tasks.
+
+## Tech
+- Python
+
+## How to run
+python main.py
